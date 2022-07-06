@@ -1,4 +1,4 @@
-                                                                      Collection Tracker
+                                                              Collection Tracker
 
 This is an application that was created using Java, Spring framework, MySql to interact with a database, and Thymeleaf in order to dynamically interact 
 with user's inputs.
